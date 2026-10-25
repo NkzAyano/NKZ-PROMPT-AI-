@@ -32,3 +32,8 @@ A chave é usada apenas durante a sessão e não é salva pelo aplicativo. Não 
 
 ## Limitações
 A seleção de Claude, Gemini, Grok, Lovable e outras serve para adaptar a estrutura do prompt. A chamada de IA real incluída nesta versão usa a API da OpenAI. Para conectar APIs de outros provedores, será necessário adicionar integrações específicas e suas respectivas chaves.
+
+
+
+<img width="1121" height="764" alt="Captura de tela 2026-10-25 200436" src="https://github.com/user-attachments/assets/ca510e7d-22e0-4e3e-b771-6b717e0dbdab" />
+
